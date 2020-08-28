@@ -1,0 +1,2 @@
+## Codewars
+These are the Codewars challenges I have completed. For more context on what the problem was trying to solve, feel free to look at my [profile](https://www.codewars.com/users/Zietieflr/completed_solutions). 
